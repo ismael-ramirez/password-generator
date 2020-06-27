@@ -2,8 +2,8 @@ This is a JavaScript password generator. In the application itself you are prese
 
 
 Screenshot of application:
-![alt text](http://url/to/img.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+![screenshot of password generator](screenshot.png)
+
 
 Link to deployed application:
+[click to display password generator](https://ismael-ramirez.github.io/password-generator/)
